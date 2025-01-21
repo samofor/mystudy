@@ -7,7 +7,14 @@ e7oneStudio 20210204 (update_20250121)
 
 ### Push My Local Files
 ```c
+
+
 git add . 
+
 git commit -m "MyNoteInfo"
+git commit -m "MyEXE_測試Local端複製的工作目錄是否同步運作"
+
 git push -u origin MyBranchName
+git push -u origin main
+
 ```
